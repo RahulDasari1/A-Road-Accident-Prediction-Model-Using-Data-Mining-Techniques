@@ -1,0 +1,45 @@
+
+
+Sprovider
+
+Login,
+Browse DataSets and Train & Test,
+View Trained and Tested Accuracy in Bar Chart,
+View Trained and Tested Accuracy Results,
+View All Road Accident Prediction,
+Find Road Accident Prediction Type Ratio,
+View Road Accident Ratio Results,
+Download Predicted Data Sets,
+View All Remote Users.
+
+Remote User
+
+REGISTER AND LOGIN,
+PREDICT ROAD ACCIDENT STATUS,
+VIEW YOUR PROFILE.
+
+
+Members
+
+Reference_Number,
+State,
+Area_Name ,
+Traffic_Rules_Viaolation,
+Vechile_Load,
+Time,
+Road_Class,
+Road_Surface,
+Lighting_Conditions,
+Weather_Conditions,
+Person_Type,
+Sex,
+Age,
+Type_of_Vehicle,
+SVM.
+
+
+
+
+Algorithms Used
+
+SVM,KNeighborsClassifier,VotingClassifier
